@@ -6,4 +6,4 @@ For the moment the project is available only on windows.
 Visual Studio 2019
 ## How to use it?
 Easy! First of all, execute generateProject.bat . 
-Then ... That's it for the moment, you can build it with visual studio.
+Then ... That's it! For the moment, you can only build it with visual studio.
